@@ -1,16 +1,7 @@
-[build-system]
-requires = ["setuptools>=68"]         # PEP 660 editable support ke liye naya setuptools
-build-backend = "setuptools.build_meta"
-
 [project]
-name = "multi-agent-research-assistant"
+name = "automated-research-report-generation"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
-dependencies = [
-]
-
-# Optional: authors, license
-authors = [{ name = "Nagesh" }]
-license = { text = "Proprietary" }
+requires-python = ">=3.11"
+dependencies = []
