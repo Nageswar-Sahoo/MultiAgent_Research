@@ -4,10 +4,15 @@ langchain-astradb==0.6.1
 langchain_core==0.3.75
 langchain-google-genai==2.1.8
 langchain-groq==0.3.6
-langchain-openai==0.3.27
+langchain-openai==0.3.32
 python-dotenv==1.1.1
 langchain-community
-langgraph==0.6.7
+langgraph==0.6.8
+ipykernel
+tavily-python
+wikipedia
+tavily-python
+wikipedia
 
 
 -e .
